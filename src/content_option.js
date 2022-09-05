@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "CryptoZeuby";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "CryptoZeuby",
+    description: "une bande de branleur , de la crypto des cigare et de la bière",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Bienvenue Sur Cryptozeuby",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "@loutre furtive",
+        second: "je pense qu'il a des tendances ....",
+        third: "homosexuel",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "a voir dans le futur le contenu ma couillasse",
+    your_img_url: "https://st.depositphotos.com/2228340/5179/i/950/depositphotos_51792227-stock-photo-bitcoin-or-bitcoins.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "me concernant un petit bout de connerie a raconter ?",
+    aboutme: "je test dans mon temps perdu mais je fini tjs a reussir ce que j'entreprend mem si ca met le temp",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -73,65 +73,65 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/epqmxd73unMZ2tsQW6/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/d7gXb96kGZK3DNgYXy/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/7LGN7PyF8x1qwgQ3Lr/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/7LGN7PyF8x1qwgQ3Lr/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/d7gXb96kGZK3DNgYXy/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/epqmxd73unMZ2tsQW6/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/epqmxd73unMZ2tsQW6/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/7LGN7PyF8x1qwgQ3Lr/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/7LGN7PyF8x1qwgQ3Lr/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/d7gXb96kGZK3DNgYXy/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/epqmxd73unMZ2tsQW6/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.giphy.com/media/epqmxd73unMZ2tsQW6/giphy.gif",
+        desctiption: "a long series of nft is coming ... stay tuned",
+        link: "http://google.com",
     },
 ];
 
